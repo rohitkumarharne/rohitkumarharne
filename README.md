@@ -1,62 +1,64 @@
-<!-- GitHub Profile Header Banner -->
-<p align="center">
-  <img src="https://github.com/rohitkumarharne/rohitkumarharne/assets/your-image-id/banner.gif" alt="Banner" />
-</p>
+---
 
-<h1 align="center">Hi 👋, I'm Rohit Raju Harne</h1>
-<h3 align="center">Java Full Stack Developer | PHP Enthusiast | Backend Problem Solver</h3>
+### 🏠 Based In
+
+* Karve Nagar, Pune, India
+
+### 📞 Contact
+
+* **Email:** [harne.rohit12@gmail.com](mailto:harne.rohit12@gmail.com)
+* **Phone:** +91 7741031884
 
 ---
 
-### 👨‍💻 About Me
+## 💼 Experience
 
-- 🧑‍💼 Loss Prevention Specialist at **Food Link FNB Holdings Pvt Ltd**
-- 🎓 B.E. in Computer Science & Engineering from Anuradha Engineering College
-- 🔭 Currently learning **Spring Boot**, **REST APIs**, and **Microservices**
-- 🧠 Exploring backend tech, SQL optimization, and cloud deployment
-- ⚡ Fun Fact: I write clean code and love debugging as much as building!
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,html,css,js,bootstrap,git,github" />
-</p>
+* **Technical Support (Feb 2025 – Present)**
+  *Foodlink F\&B Pvt Ltd*
+* **Java Intern (May 2024 – Nov 2024)**
+  *Mavertech Technologies Pvt Ltd, Nashik*
+* **Java Intern (Nov 2024 – Feb 2025)**
+  *Digispect Technologies, Ch. Sambhaji Nagar*
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumarharne&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumarharne&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohitkumarharne&theme=tokyo-night" width="95%"/>
-</p>
+> **Languages:** C • C++ • Java • JavaScript
+> **Frameworks:** Spring Boot • Spring MVC • JSP/Servlets • React.js • Bootstrap
+> **Databases:** MySQL
+> **Servers:** Apache Tomcat
+> **Tools:** Git • Log4J • IntelliJ IDEA • Eclipse • Spring Tool Suite
+> **OS:** Windows • Linux
 
 ---
 
-### 🚀 Featured Projects
+## 📚 Education
 
-- 📦 [Java Employee Management System](#)  
-- 📱 [PHP-Based Inventory System](#)  
-- 🌐 [Responsive Portfolio Website](#)  
-> *(Add links and short descriptions here for your best projects!)*
+* **B.E. Computer Science & Engineering**
+  *Anuradha Engineering College* (2019 – 2023)
 
 ---
 
-### 📫 Connect with Me
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="mailto:harne.rohit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohit-harne-298241234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+| Project                                 | Stack                                                   | Highlights                                                                                                                                                                            |                                                                             |
+| --------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Wikipedia Foodlink**                  | Spring MVC, JSP, JDBC, MySQL                            | Secure login with email‑OTP, responsive UI, company information portal                                                                                                                |                                                                             |
+| **Library Management System**           | JSP/Servlets, JDBC, MySQL                               | Admin panel, user auth, book issue/return & real‑time availability                                                                                                                    |                                                                             |
+| **Web‑Based Student Management System** | Spring MVC, HTML/CSS/JS, MySQL                          | Attendance tracking, reports, student management, live demo [https://www.studentattendance.online](https://www.studentattendance.online)                                              |                                                                             |
+| **Online Job Portal**                   | Spring Boot (JPA/Hibernate), React.js, Bootstrap, MySQL | Role‑based dashboards: Employers (post jobs, shortlist applicants) & Job Seekers (apply, track status)  [Backend](https://github.com/rohitkumarharne/Online-Job-Portal-Spring-Boot-)  |  [Frontend](https://github.com/rohitkumarharne/Online-Job-Portal-React-Js-) |
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+build+something+awesome!;I+turn+ideas+into+code.;Welcome+to+my+GitHub+profile!" />
-</p>
+## 📈 GitHub Stats
+
+---
+
+## 🌐 Languages
+
+English • Hindi • Marathi
+
+---
+
+ 
