@@ -1,4 +1,3 @@
----
 
 ### 🏠 Based In
 
@@ -9,7 +8,6 @@
 * **Email:** [harne.rohit12@gmail.com](mailto:harne.rohit12@gmail.com)
 * **Phone:** +91 7741031884
 
----
 
 ## 💼 Experience
 
